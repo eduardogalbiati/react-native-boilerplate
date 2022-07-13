@@ -1,8 +1,7 @@
 export const withText = {
-  showText: true,
+	showText: true,
 };
 
 export const withoutText = {
-  showText: true,
+	showText: true,
 };
-
