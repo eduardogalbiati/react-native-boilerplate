@@ -70,10 +70,10 @@
 	},
 	"lint-staged": {
 		"src/**/*.{ts,tsx}": [
-			"npx lint:fix"
+			"npm run lint:fix"
 		],
 		"./src/**": [
-			"npx format:fix"
+			"npm run format:fix"
 		]
 	},
 	"husky": {

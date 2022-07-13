@@ -2,12 +2,4 @@
 
 exports[`<ExampleComponent /> Component renders with text 1`] = `<View />`;
 
-exports[`<ExampleComponent /> Component renders without props 1`] = `
-<View>
-  <Text>
-    Dummy text
-  </Text>
-</View>
-`;
-
-exports[`<ExampleComponent /> Component renders without text 1`] = `<View />`;
+exports[`<ExampleComponent /> Component renders without props 1`] = `<View />`;

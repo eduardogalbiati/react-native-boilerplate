@@ -9,7 +9,7 @@ const defaultProps: ExampleComponentProps = {
 	showText: false,
 };
 
-function ExampleComponent({ showText = false }: ExampleComponentProps) {
+function ExampleComponent({ showText }: ExampleComponentProps) {
 	return <View>{showText ?? <Text>Dummy text</Text>}</View>;
 }
 
