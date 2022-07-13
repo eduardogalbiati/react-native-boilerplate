@@ -27,6 +27,7 @@
 		"react-native-web": "0.17.7"
 	},
 	"devDependencies": {
+		"@types/react-test-renderer": "^18.0.0",
 		"@babel/core": "^7.12.9",
 		"@types/jest": "^28.1.5",
 		"@types/react": "~17.0.21",
